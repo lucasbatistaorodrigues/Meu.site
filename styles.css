@@ -16,7 +16,7 @@ body {
 }
 
 .principal{
-    background-image: url(image 16.png);
+    background-image: url(image\ 16.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
